@@ -1,3 +1,3 @@
-# reinforcementLearning 强化训练的日记
+# reinforcementLearning 强化学习的日记
 
 - notebooks for TF_agent
